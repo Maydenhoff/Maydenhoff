@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Mayra Denhoff</h1>
 <h3 align="center">Full Stack developer</h3>
 
-<h2><strong>¿Quién soy?</strong></h2>
+<strong><h2>¿Quién soy?</h2></strong>
 Soy una programadora Full Stack con 24 años de edad, comprometido en aprender y crecer en el emocionante mundo del desarrollo de software. 
 
 ¿Qué hago?
