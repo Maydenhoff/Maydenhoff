@@ -16,7 +16,7 @@ HTML
   Redux
  </p>
 
-<!-- <img  alt="Js Discord Bot Logo - Node Js And React Js @clipartmax.com"> -->
+<img  alt="Js Discord Bot Logo - Node Js And React Js @clipartmax.com">
 
  
 <p align="left">  </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
