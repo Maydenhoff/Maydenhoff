@@ -4,7 +4,7 @@
 <strong><h2>¿Quién soy?</h2></strong>
 Soy una programadora Full Stack con 24 años de edad, comprometido en aprender y crecer en el emocionante mundo del desarrollo de software. 
 
-¿Qué hago?
+<strong><h2>¿Qué hago?</h2></strong>
 Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formación como programadora.
 
 ¿Qué tecnologías uso?
