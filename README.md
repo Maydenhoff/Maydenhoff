@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋, I'm Mayra Denhoff</h1>
-<h3 align="center">A passionate Full Stack developer from Argentina</h3>
+<h1 align="center">Hola 👋, soy Mayra Denhoff</h1>
+<h3 align="center">Full Stack developer</h3>
 
+¿Quién soy?
+Soy una programadora Full Stack con 24 años de edad, comprometido en aprender y crecer en el emocionante mundo del desarrollo de software. 
+
+¿Qué hago?
+Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formación como programadora.
+
+¿Qué tecnologías uso?
+El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia en: **JS, PostgresSQL, Node.js, React, Redux, Sequelize, HTML, Express**
 - 🌱 I’m currently learning **Different technologies that add to my professional profile**
 
 - 👯 I’m looking to collaborate on **different projects that generate professional challenges**
 
-- 💬 Ask me about **JS, PostgresSQL, Node.js, React, Redux, Sequelize, HTML, Express**
+- 💬 Ask me about 
 
 - 📫 How to reach me **mayradenhoff@gmail.com**
 
