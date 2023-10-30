@@ -7,7 +7,7 @@ Soy una programadora Full Stack con 24 años de edad, comprometido en aprender y
 <strong><h2>¿Qué hago?</h2></strong>
 Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formación como programadora.
 
-¿Qué tecnologías uso?
+<strong><h2>¿Qué tecnologías uso?</h2></strong>
 El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia en: **JS, PostgresSQL, Node.js, React, Redux, Sequelize, HTML, Express**
 - 🌱 I’m currently learning **Different technologies that add to my professional profile**
 
