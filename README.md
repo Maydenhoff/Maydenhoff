@@ -24,7 +24,7 @@ El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia en:
 
 <strong><h2>No dudes en contactarme</h2></strong>
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mayradenhoff/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayradenhoff/" height="30" width="40" /></a>
 <a href="mailto:mayradenhoff@gmail.com">
   <img align="center" src="./Imagenes/pngwing.com (2).png" alt="mayradenhoff@gmail.com" height="30" width="40" />
