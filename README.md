@@ -1,4 +1,4 @@
- <h1><img style="justify-content: center; padding-top:20px; " alt="gif" src="https://readme-typing-svg.demolab.com/?font=Consola&size=35&pause=1000&color=8647F7&width=470&lines=Hola%F0%9F%91%8B%F0%9F%8F%BB+soy+Mayra+Denhoff;%E2%9C%94+Full+Stack+Dev.;Mucho+gusto!!" /></h1>h1>
+ <h1><img style="justify-content: center; padding-top:20px; " alt="gif" src="https://readme-typing-svg.demolab.com/?font=Consola&size=35&pause=1000&color=8647F7&width=470&lines=Hola%F0%9F%91%8B%F0%9F%8F%BB+soy+Mayra+Denhoff;%E2%9C%94+Full+Stack+Dev.;Mucho+gusto!!" /></h1>
 <!-- <h1 align="center">Hola 👋, soy Mayra Denhoff</h1> -->
 <h3 align="center">Full Stack developer</h3>
 
