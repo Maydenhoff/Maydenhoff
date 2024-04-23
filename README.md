@@ -1,5 +1,5 @@
-<img align="center" alt="gif" src="https://readme-typing-svg.demolab.com/?font=Consola&size=35&pause=1000&color=8647F7&width=470&lines=Hola%F0%9F%91%8B%F0%9F%8F%BB+soy+Mayra+Denhoff;%E2%9C%94+Full+Stack+Dev." />
-
+<img align="center" alt="gif" src="https://readme-typing-svg.demolab.com/?font=Consola&size=35&pause=1000&color=8647F7&width=470&lines=Hola%F0%9F%91%8B%F0%9F%8F%BB" />
+<h1>Hola!</h1>
 <strong><h2>¿Quién soy?</h2></strong>
 Soy Mayra Denhoff tengo 24 años y soy programadora Full Stack con orientacion a desarrollo Back End.
 
