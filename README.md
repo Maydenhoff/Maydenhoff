@@ -9,9 +9,8 @@ Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formaci
 <strong><h2>¿Qué tecnologías uso?</h2></strong>
  <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./Imagenes/clipart894960.png" alt="nodejs" width="40" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="./Imagenes/pngwing.com.png" alt="express" width="40" height="40"/> 
- <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" alt="html5" width="40" height="40"/> </a>  
+ <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" width="40" height="40"/> </a>  
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
  </a> 
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   
@@ -24,7 +23,7 @@ Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formaci
 <strong><h2>No dudes en contactarme</h2></strong>
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mayradenhoff/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayradenhoff/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mayradenhoff/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayradenhoff/" height="30" width="40" /></a>
 <a href="mailto:mayradenhoff@gmail.com">
   <img align="center" src="./Imagenes/pngwing.com (2).png" alt="mayradenhoff@gmail.com" height="30" width="40" />
 </a>
