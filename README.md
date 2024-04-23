@@ -7,11 +7,11 @@ Soy Mayra Denhoff tengo 24 años y soy programadora Full Stack con orientacion a
 Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formación como programadora.
 
 <strong><h2>¿Qué tecnologías uso?</h2></strong>
-El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia en:
  <p align="center"> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./Imagenes/clipart894960.png" alt="nodejs" width="40" height="40"/> </a> 
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="./Imagenes/pngwing.com.png" alt="express" width="40" height="40"/> 
+ <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" alt="html5" width="40" height="40"/> </a>  
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
  </a> 
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   
