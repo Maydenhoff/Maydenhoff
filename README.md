@@ -19,6 +19,7 @@ Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formaci
   <a href="https://es.redux.js.org/" target="_blank" rel="noreferrer"> <img src="./Imagenes/pngwing.com (1).png" alt="react" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  </p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaquinhacosta&show_icons=true&locale=en" alt="joaquinhacosta" /></p>
 
 <strong><h2>No dudes en contactarme</h2></strong>
 
