@@ -1,33 +1,27 @@
-<h1>Hola👋🏼 Soy Mayra Denhoff </h1>
- <strong><h2>¿Quién soy?</h2></strong>
-Soy Mayra Denhoff tengo 24 años y soy programadora Full Stack con orientacion a desarrollo Back End.
-
-<strong><h2>¿Qué hago?</h2></strong>
-Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formación como programadora.
+<h1 align="center">Hola👋🏼 Soy Mayra Denhoff 
+<a href="https://www.linkedin.com/in/mayradenhoff/">
+<img align="center" width="20" height="20" src="https://skillicons.dev/icons?i=linkedin">
+</a>
+<a href="mailto:mayradenhoff@gmail.com">
+<img align="center" width="20" height="20" src="https://skillicons.dev/icons?i=gmail">
+</a>
+</h1>
+<h3>Sobre mi:</h3>
+<p>
+🔹Soy programadora Full Stack con orientacion a desarrollo Back End, graduada de Soy Henry Bootcamp en la carrera de desarrollador Full Stack🚀
+<br>
+🔹Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formación como programadora.
+<br>
+🔹Busco trabajar en una empresa donde pueda seguir creciendo profesionalmente para aportar y explotar mis conocimientos dentro del equipo y aprender del mismo.
 
 <strong><h2>¿Qué tecnologías uso?</h2></strong>
  <p align="center"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./Imagenes/clipart894960.png" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="./Imagenes/pngwing.com.png" alt="express" width="40" height="40"/> 
- <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" width="40" height="40"/> </a>  
- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
- </a> 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   
- <a href=" https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="./Imagenes/klipartz.com.png" alt="sequelize" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://es.redux.js.org/" target="_blank" rel="noreferrer"> <img src="./Imagenes/pngwing.com (1).png" alt="react" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<br/>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maydenhoff&show_icons=true&locale=en&layout=compact" alt="mayradenhoff" /></a>
-<br/>
- </p>
-   
-<strong><h2>No dudes en contactarme</h2></strong>
+  <img src="https://skillicons.dev/icons?i=js,html,python,express,fastapi,mongodb,react,redux,nodejs,postgres,sequelize">
 
-<p align="center">
-<a href="https://www.linkedin.com/in/mayradenhoff/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayradenhoff/" height="30" width="40" /></a>
-<a href="mailto:mayradenhoff@gmail.com">
-  <img align="center" src="./Imagenes/pngwing.com (2).png" alt="mayradenhoff@gmail.com" height="30" width="40" />
-</a>
-</p>
+<hr width="100%"/>
+  <img align="left" width="500" height="250"  hspace="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=maydenhoff&show_icons=true&bg_color=202020&text_color=B9B9B9&locale=es&layout=compact" alt="maydenhoff" />
+  <img align="left" width='500' hspace="200" src="https://github-readme-stats.vercel.app/api?username=maydenhoff&count_private=true&bg_color=202020&text_color=B9B9B9" alt="maydenhoff" />
+  <img align="left" width='500' hspace="200" src="https://github-readme-streak-stats.herokuapp.com/?user=maydenhoff&show_icons=true&bg_color=202020&text_color=B9B9B9&theme=dark" alt="maydenhoff" />
+  <hr width="100%"/>
+
 
