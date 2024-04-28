@@ -14,7 +14,7 @@
 <br>
 🔹Busco trabajar en una empresa donde pueda seguir creciendo profesionalmente para aportar y explotar mis conocimientos dentro del equipo y aprender del mismo.
 
-<strong><h2>¿Qué tecnologías uso?</h2></strong>
+<strong><h2>Tecnologías:</h2></strong>
  <p align="center"> 
   <img src="https://skillicons.dev/icons?i=js,html,python,express,fastapi,mongodb,react,redux,nodejs,postgres,sequelize,graphql">
 
