@@ -8,7 +8,7 @@
 </h1>
 <h3>Sobre mi:</h3>
 <p>
-🔹Soy programadora Full Stack con orientacion a desarrollo Back End, graduada de Soy Henry Bootcamp en la carrera de desarrollador Full Stack🚀
+🔹Soy programadora Full Stack con orientacion a desarrollo Back End, comencé mis estudios de forma autodidacta, hace dos años, y actualmente me encuentro cursando la Tecnicatura Universitaria en Programación en la UTN.
 <br>
 🔹Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formación como programadora.
 <br>
