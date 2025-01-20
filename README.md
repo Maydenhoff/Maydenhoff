@@ -8,7 +8,9 @@
 </h1>
 <h3>Sobre mi:</h3>
 <p>
-🔹Soy programadora Full Stack con orientacion a desarrollo Back End, comencé mis estudios de forma autodidacta, hace dos años, y actualmente me encuentro cursando la Tecnicatura Universitaria en Programación en la UTN.
+🔹Soy programadora Full Stack con orientación a desarrollo Back End y estoy en busqueda de mi primera experiencia profesional. 
+ <br>
+🔹Comencé mis estudios de forma autodidacta, hace dos años, y actualmente me encuentro cursando la Tecnicatura Universitaria en Programación en la Universidad Nacional Tecnológica (UTN).
 <br>
 🔹Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formación como programadora.
 <br>
@@ -18,10 +20,5 @@
  <p align="center"> 
   <img src="https://skillicons.dev/icons?i=js,html,python,express,fastapi,mongodb,react,redux,nodejs,postgres,sequelize,graphql">
 
-<hr width="100%"/>
-  <img align="left" width="500" height="250"  hspace="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=maydenhoff&show_icons=true&bg_color=202020&text_color=B9B9B9&locale=es&layout=compact" alt="maydenhoff" />
-  <img align="left" width='500' hspace="200" src="https://github-readme-stats.vercel.app/api?username=maydenhoff&count_private=true&bg_color=202020&text_color=B9B9B9" alt="maydenhoff" />
-  <img align="left" width='500' hspace="200" src="https://github-readme-streak-stats.herokuapp.com/?user=maydenhoff&show_icons=true&bg_color=202020&text_color=B9B9B9&theme=dark" alt="maydenhoff" />
-  <hr width="100%"/>
 
 
